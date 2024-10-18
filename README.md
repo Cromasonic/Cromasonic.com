@@ -1,3 +1,2 @@
 # Cromasonic.com
-
-<h1>Beginning of web</h1>
+<kbr>Beginning of web</kbr>
